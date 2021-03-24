@@ -1,0 +1,2 @@
+# FrequanceSymbolInText
+FrequanceSymbolInText
